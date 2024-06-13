@@ -41,6 +41,9 @@ Describe step-by-step the scenario. Write it using this format (BDD style).
 //then -> the script provides detailed information and management options for all running instances
 
 ```
+## Network schema
+
+![Schema](/SchemaReseau.png "Schema")
 
 ## Cost
 
